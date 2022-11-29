@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**KeannaRowchan/KeannaRowchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+My name is Keanna, I am a graduate student at Queen's University in the psychology department, specalizing in Cognitive Neuroscience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Education
+
+
+#### Research Experience
+
+
+#### Languages:
+JavaScript
+Python
+HTML
+CSS
