@@ -23,8 +23,6 @@ My name is Keanna, I am a graduate student at Queen's University in the psycholo
 **The Sexual Health Research Lab at Queen's University**
 - Research Assistant - February 2021 to present
 
-### Languages:
-JavaScript
-Python
-HTML
-CSS
+### Languages
+- JavaScript
+- Python
