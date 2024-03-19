@@ -19,3 +19,4 @@ I'm a first year M.Sc. Psychology student at Queen's Univeristy in the Cognitive
 
 **The Sexual Health Research Lab at Queen's University**
 - Research Assistant - February 2021 to present
+  
